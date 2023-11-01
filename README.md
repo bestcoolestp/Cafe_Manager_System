@@ -1,7 +1,7 @@
 # Cafe_Manager_System
-Cafe Manager System
 Overview
-Cafe Manager System is a comprehensive web-based application tailored to streamline the management of cafes and bistros. Its primary objective is to digitize the traditionally manual tasks associated with cafe operations, enhancing efficiency and ensuring a smoother customer experience.
+Cafe Manager System is a comprehensive web-based application tailored to streamline the management of cafes and bistros. 
+Its primary objective is to digitize the traditionally manual tasks associated with cafe operations, enhancing efficiency and ensuring a smoother customer experience.
 
 Purpose:
 The system is designed to address several challenges faced by cafe owners and managers:
@@ -25,6 +25,7 @@ Best Seller, Dashboard, Home, Login, Signup, etc.
 Layouts: Header and Sidebar for UI consistency.
 Material Components: Dialog, Manage Category, Manage Order, etc.
 Services: List the main services and their purposes.
+
 Backend:
 Framework: Node.js
 Database: MySQL
@@ -39,11 +40,3 @@ Responsive Design: How the UI adapts to different screen sizes.
 Authentication Flow: Mention how login, signup, and forgot password processes work.
 User Roles: Differentiation between 'admin' and 'user' roles.
 Backend Operations: Describe how tokens are generated and validated, how the database connection is set up, etc.
-Setup & Installation
-Provide step-by-step instructions on how to set up and run your project. This can include:
-
-Prerequisites: Software or tools needed.
-Cloning the repository.
-Installing dependencies.
-Setting up the database.
-Running the frontend and backend.
