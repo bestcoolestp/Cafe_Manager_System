@@ -10,6 +10,8 @@ The system is designed to address several challenges faced by cafe owners and ma
 - **Inventory and Product Management**: With an integrated product and category management feature, cafe managers can effortlessly add, update, or remove items, ensuring that the menu remains current and stock levels are maintained.
 - **User Management**: Differentiating between user roles is crucial in a cafe setting. The Cafe Manager System offers distinct access levels for 'admins' and 'users', enabling role-specific functionalities and privileges.
 - **Billing and Payments**: The integrated billing system automates the calculation process, reducing human error and expediting the payment process.
+- ![Screenshot 2023-10-03 082950](https://github.com/bestcoolestp/Cafe_Manager_System/assets/108534975/8e3bbd41-f0c5-4014-a5d2-defeefa70f14)
+
 
 ### Main Features
 - **Dashboard**: A centralized hub that offers a snapshot of the cafe's operations, from recent orders to inventory levels.
